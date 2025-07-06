@@ -13,7 +13,7 @@ I revamped the course series to emphasize central concepts in physical computing
 
 Here's an [example of a final project from PH 367](/assets/docs/project-example-367.html) by two students showcasing their application of finite difference methods to two-dimensional fluid dynamics.
 
-Also check out [publicly available materials from the course sequence](https://github.com/pattihamerski/PH-36X-Public).
+Also check out [publicly available materials from the course sequence](https://github.com/hamerski/PH-36X-Public).
 
 ## Physics Thesis Writing
 

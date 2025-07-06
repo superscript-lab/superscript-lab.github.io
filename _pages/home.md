@@ -19,7 +19,7 @@ header:
     - label: "orcid <i class='fab fa-fw fa-orcid'></i>"
       url: https://orcid.org/0000-0003-3609-5673
     - label: "github <i class='fab fa-fw fa-github'></i>"
-      url: https://github.com/pattihamerski
+      url: https://github.com/hamerski
 
 # fas is regular icon, fab is brand icon
 # find other icons here: https://fontawesome.com/v5/search

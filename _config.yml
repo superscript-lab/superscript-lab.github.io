@@ -17,9 +17,9 @@ title_separator          : ""
 subtitle                 : ""
 name                     : &name " " # &name is a YAML anchor which can be *referenced later
 description              : &description " "
-url                      : https://pattihamerski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hamerski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
-repository               : "pattihamerski/pattihamerski.github.io"
+repository               : "hamerski/hamerski.github.io"
 #teaser                   : assets/images/patti_cute.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo-cat.png #/assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -118,14 +118,14 @@ author:
       url: https://orcid.org/0000-0003-3609-5673
     - label: "github"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/pattihamerski
+      url: https://github.com/hamerski
 
 # Site Footer
 footer:
   links:
     #- label: "Github"
     #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/pattihamerski"
+    #  url: "https://github.com/hamerski"
     #- label: "Contact"
     #  icon: 'fas fa-fw fa-envelope-square'
     #  url: "mailto:patti.hamerski@oregonstate.edu"
