@@ -26,7 +26,7 @@ Undergraduate physics majors must complete a (Writing Intensive Course) WIC requ
 
 I get many questions about the course structure, timeline, and research coordination of the physics thesis option. These can usually be answered by this [general overview of the thesis option and some FAQ](https://physics.oregonstate.edu/undergraduate/academics/writing-intensive-courses).
 
-I also get many questions about the eligibility, expectations, and approval of thesis research mentors who aren't in the OSU physics. These questions can usually be answered using this [thesis registration flowchart](/assets/images/403-flowchart.png).
+I also get many questions about the eligibility, expectations, and approval of thesis research mentors who aren't in the OSU physics. These questions can usually be answered using this [thesis registration flowchart](https://hamerski.github.io/assets/images/403-flowchart.png).
 
 Here is [more info about how to navigate specific mentoring situations](https://physics.oregonstate.edu/undergraduate/academics/writing-intensive-courses/thesis-advisors), as well as other details about research mentor expectations.
 
