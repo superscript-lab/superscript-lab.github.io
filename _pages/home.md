@@ -28,4 +28,4 @@ excerpt: >
 
 Hi there! We are group of education researchers based in the physics department at Oregon State University. Feel free to click around and learn about some of the work we do.
 
-![](https://web.archive.org/web/20090903025013im_/http://geocities.com/repousseart/under-construction.gif)
+<img src="https://web.archive.org/web/20090903025013im_/http://geocities.com/repousseart/under-construction.gif" width="600" title="This site is under construction."/>
