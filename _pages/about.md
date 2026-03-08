@@ -1,8 +1,8 @@
 ---
 classes: wide
 permalink: /about/
-title: "About Me"
-excerpt: "She's fine? Like I guess"
+title: "About Us"
+excerpt: "We do research and stuff."
 layouts_gallery:
 
 ---

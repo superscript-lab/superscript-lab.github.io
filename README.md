@@ -1,6 +1,5 @@
-# hamerski.github.io
-My professional website!
+# superscript-lab.github.io
 
+Website for SuperSCRIPT Lab at Oregon State University!
 
-# For macOS arm
-`bundle add webrick`
+We do research and stuff.

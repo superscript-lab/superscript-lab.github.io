@@ -1,11 +1,10 @@
 ---
 classes: wide
-permalink: /lab/
-title: "Hamerski Lab"
-excerpt: "Hamerski Lab"
+permalink: /team/
+title: "SuperSCRIPT Lab Members"
+excerpt: "Go team!"
 layouts_gallery:
 
-    
 ---
 
 <img src="/assets/images/yosemite-falls.jpg" width="400" title="Lab trip to Yosemite on the way to APS 2025. Featuring collaborator Danielle Skinner too!"/>
